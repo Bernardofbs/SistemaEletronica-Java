@@ -1,6 +1,7 @@
 # Sistema de Controle de Estoque CLI
 
 Meu primeiro projeto da matéria de Desenvolvimento de Sistemas Aplicados.
+
 Um sistema simples de gerenciamento de estoque via linha de comando (CLI) desenvolvido em Java, aplicando conceitos de Orientação a Objetos (POO). 
 
 ## Objetivo
